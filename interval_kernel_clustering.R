@@ -1,6 +1,4 @@
-# All codes reference the cluster methods studied in my scientific initiation project
 
-# Fun??es usadas nos m?todos de agrupamento
 library(rdist)
 
 sigma2est = function(X) {
